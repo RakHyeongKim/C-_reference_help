@@ -18,3 +18,6 @@
 - Resources 폴더
   - Resources 폴더는 View에서 보여지는 Style을 정의하는 곳입니다.
   - 해당 프로젝트의 App.xaml이 가장 먼저 실행되면서 MainWindow를 호출하고, 다양한 스타일 리소스들을 연결하는 것입니다.
+
+---
+
